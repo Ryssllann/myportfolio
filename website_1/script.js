@@ -82,7 +82,7 @@ const image = document.getElementById('image');
 
 window.addEventListener('scroll', () => {
     let elem = document.getElementById('upbutton');
-    if (window.scrollY < 50) {
+    if (window.pageYOffset < 50) {
         elem.style.display = 'none';
     }
     else {
