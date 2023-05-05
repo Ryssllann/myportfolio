@@ -1,0 +1,435 @@
+﻿/*main css*/
+body {
+background: #f2ede7; 
+    font-family: Arial, "Times New Roman", sans-serif;
+    font-size: 12pt;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    float: left;
+    margin-right: 12%;
+    margin-left: 12%;
+}
+
+.logo img {
+    height: 60px;
+}
+
+.center {
+    margin-top: 3%;
+
+}
+.center a {
+    color: #596562;
+    display: block;
+    float: left;
+    font-weight: bold;
+    font-size: 105%;
+    margin-left: 6%;
+    text-decoration: none;
+}
+
+.clear {
+    clear:both;
+}
+
+.line {
+    border: 1px solid #879894;
+    box-shadow: 0 0 1px 1px #c0c5c0;
+    margin-left: 4%;
+    margin-right: 3%;
+    margin-top: 40px;
+    position: relative;
+    bottom: 9px;
+    right: 1px;
+}
+
+.svg_1 {
+    background-color: #879894;
+    border-radius: 50%;
+    height: 16px;
+    float: left;
+    position: relative;
+    left: 3%;
+    bottom: 18px;
+    width: 16px;
+}
+
+.svg_2 {
+    background-color: #879894;
+    border-radius: 50%;
+    float: right;
+    height: 16px;
+    margin-top: 30px;
+    position: relative;
+    right: 2%;
+    bottom: 49px;
+    width: 16px;
+}
+
+
+.left {
+    margin-top: 160px;
+    position: static;
+    float: left;
+    margin-right: 10%;
+    width: 10%;
+}
+
+
+.block-left_1 {
+    background-color: #596562;
+    border-top-right-radius: 88%;
+    height: 110px;
+    width: 8%;
+    padding-right: 50%;
+}
+
+.block-left_2 {
+    background-color: #596562;
+    height: 451px;
+    width: 8%;
+    padding-right: 50%;
+    float: left;
+}
+
+.square {
+    background-color: #879894;
+    display: block;
+    bottom: 229px;
+    position: relative;
+    top: 239px;
+    height: 153px;
+    width: 100%;
+}
+
+
+.image {
+    float: left;
+    margin-top: 80px;
+}
+
+.image img {
+    height: 570px;
+    width: 85%;
+}
+
+.background {
+    float: left;
+}
+
+.photoline {
+    position: relative;
+    top: 200px;
+    padding-left: 13%;
+}
+
+.svg_3 {
+    background-color: #879894;
+    border-radius: 50%;
+    height: 16px;
+    position: relative;
+    width: 16px; 
+}
+
+
+.line_2 {
+    border-left: 3px solid #879894;
+    height: 520px;
+    margin-left: 6px;
+}
+
+.photos {
+    position: relative;
+    right: 10%;
+}
+
+.classlist h1 {
+    color: #596562;
+    font-size: 516%;
+    font-weight: normal;
+    padding-top: 132px;
+}
+
+.line_3 {
+    border: 1px solid #879894;
+    width: 46%;
+    margin-left: 46%;
+    position: relative;
+    right: 0%;
+}
+
+.svg_4 {
+    background-color: #879894;
+    border-radius: 50%;
+    float: right;
+    height: 16px;
+    margin-top: -8px;
+    margin-right: 7%;
+    width: 16px;
+}
+
+.text {
+    position: relative;
+    right: 3%;
+    width: 93%;
+}
+
+.text p {
+    color: #596562;
+    line-height: 1.5;
+    padding-top: 10px;
+    text-align: right;
+}
+
+
+#info {
+    background-color: #596562;
+    color: #f2ede7;
+    cursor: pointer;
+    display: block;
+    float: left;
+    margin-top: 6px;
+    margin-left: 19%;
+    text-decoration: none;
+   
+}
+
+#info div {
+    font-weight: bold;
+    font-size: 120%;
+    padding: 10px 33px;
+}
+
+.svg_main {
+    float: right;
+    position: relative;
+    bottom: 255px;
+    margin-right: 2%;
+}
+
+#svg5 {
+    background-color: #879894;
+    border-radius: 50%;
+    height: 16px;
+    width: 16px;
+}
+
+#svg6 {
+    border: 2px solid #879894;
+    border-radius: 50%;
+    height: 13px;
+    width: 13px;
+    margin : 0;
+    margin-top: 25px;
+    padding: 0;  
+}
+
+#svg7 {
+    border: 2px solid #879894;
+    border-radius: 50%;
+    height: 13px;
+    width: 13px;
+    margin : 0;
+    margin-top: 25px;
+    padding: 0;  
+}
+
+#svg8 {
+    border: 2px solid #879894;
+    border-radius: 50%;
+    height: 13px;
+    width: 13px;
+    margin : 0;
+    margin-top: 25px;
+    padding: 0;  
+}
+
+#svg9 {
+    border: 2px solid #879894;
+    border-radius: 50%;
+    height: 13px;
+    width: 13px;
+    margin : 0;
+    margin-top: 25px;
+    padding: 0;  
+}
+
+.box {
+    background-color: #596562;
+    height: 70px;
+    width: 35%;
+    margin-top: 25px;
+    margin-left: 61%;
+}
+
+
+/*>>Адаптация по разные разрешения*/
+
+@media screen and (min-width: 1183px)and (max-width: 1350px) {
+    .classlist h1 {
+        font-size: 380%;
+    }
+
+    .main a {
+        margin-left: 12%;
+    }
+
+    .svg_main {
+        bottom: 304px;
+    }
+
+    button {
+        margin-left: 72%;
+    }
+}
+
+
+@media screen and (min-width: 800px)and (max-width: 1183px) {
+    .classlist h1 {
+        font-size: 300%;
+    }
+
+    .main a {
+        margin-left: 18%;
+    }
+
+    .svg_main {
+        bottom: 344px;
+    }
+
+    .image img {
+        height: 417px;
+        width: 89%;
+    }
+
+    .button {
+        margin-left: 75%;
+    }
+
+    #mail {
+        margin-left: 52%;
+    }
+}
+
+/*>>Невидимый блок*/
+
+
+#window {
+    display: none;
+    position: relative;
+    left: 20%;
+    bottom: 548px;
+    animation: ani 2.5s forwards;
+}
+
+@keyframes ani {
+    0% {opacity: 0;}
+    100% {opacity: 1;} 
+}
+
+
+@keyframes close {
+    0% {opacity: 1;}
+    99% {
+        opacity: 0;
+        height: 200px;
+        width: 200px;
+    }
+    100% {        
+        opacity: 0;
+        height: 200px;
+        width: 200px;
+    } 
+}
+
+
+#window img {
+    margin-top: 5px;
+    margin-left: 3%;
+    width: 75%;
+}
+
+.image_2 {
+    float: left;
+    width: 26%;
+}
+
+#format {
+    background-color: #879894;
+    padding-right: 1%;
+    width: 50%;
+}
+
+#format h2 {
+    color: #f2ede7;
+    font-weight: normal;
+    margin: 19px 0;
+}
+
+#format h3 {
+    color: #f2ede7;
+    font-weight: normal;
+    margin-top: 29px;
+    margin-bottom: 4px;
+}
+
+#close {
+    color: #f2ede7;
+    cursor: pointer;
+    float: right;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+
+
+button {
+    background-color: #596562;
+    border: 0px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 110%;
+    margin-left: 18%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #f2ede7;
+}
+
+#upbutton  {
+	background-color: #596562;
+	border-radius: 2px;
+	cursor: pointer;
+	display: none;
+	opacity: 0.7;
+	height: 30px;
+	width: 109px;
+	opacity: 0.7;
+	position: fixed;
+	top: 58%;
+	right: 1%;
+	padding-left: 8px;
+	padding-top: 10px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#upbutton a {
+	color: #ececec;
+	font-size: 120%;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#upbutton div {
+	float: left;
+}
+
+
+
+
+
+/*Требуется сделать всплывающее окно через JS "More Info"
+Cделать регулярное выражение*/
