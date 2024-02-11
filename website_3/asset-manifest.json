@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98f98e92.css",
+    "main.js": "/static/js/main.ead450eb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/illustrations.png": "/static/media/illustrations.d518fd0cd8fa42b929f5.png",
+    "static/media/abstract.png": "/static/media/abstract.baf5223f63e68847e2c8.png",
+    "static/media/science.png": "/static/media/science.d11a35a784c9d444e286.png",
+    "static/media/beauty.jpg": "/static/media/beauty.d17a43931d347e4c6d58.jpg",
+    "static/media/sports.png": "/static/media/sports.ed2d5c1a90ba8c62a495.png",
+    "static/media/objects.jpg": "/static/media/objects.ace3b13ce4c66812c470.jpg",
+    "static/media/miscellaneous.jpg": "/static/media/miscellaneous.3b38e8461474843e5eb5.jpg",
+    "static/media/people.jpg": "/static/media/people.d7a932cff8be0212245b.jpg",
+    "static/media/buildings.jpg": "/static/media/buildings.78e2384799e59cc84118.jpg",
+    "static/media/interiors.jpg": "/static/media/interiors.7e3741349b64945f18fc.jpg",
+    "static/media/industrial.jpg": "/static/media/industrial.e5283dbb9bcdfd659671.jpg",
+    "static/media/background.jpg": "/static/media/background.142b1827abadd30a9408.jpg",
+    "static/media/education.jpg": "/static/media/education.5e3970f390cf3b223c85.jpg",
+    "static/media/religion.jpg": "/static/media/religion.33b843666c8db4ab81bf.jpg",
+    "static/media/signs.jpg": "/static/media/signs.03880ba77cdf2da8f6e2.jpg",
+    "static/media/holidays.jpg": "/static/media/holidays.ec5c2191b873f94a6d43.jpg",
+    "static/media/vectors.jpg": "/static/media/vectors.41dfa1c42904a01eb0ca.jpg",
+    "static/media/business.jpg": "/static/media/business.19910320fb2795d2f85d.jpg",
+    "static/media/parks.jpg": "/static/media/parks.87c155bca32203e9b5a1.jpg",
+    "static/media/food.jpg": "/static/media/food.2a869e8e031bd7d87fc4.jpg",
+    "static/media/arts.jpg": "/static/media/arts.8c0f6127aa85ff8dacc0.jpg",
+    "static/media/celebrities.jpg": "/static/media/celebrities.0d99632f7eae3d2115db.jpg",
+    "static/media/vintage.jpg": "/static/media/vintage.722ebdd80dca54ef5257.jpg",
+    "index.html": "/index.html",
+    "main.98f98e92.css.map": "/static/css/main.98f98e92.css.map",
+    "main.ead450eb.js.map": "/static/js/main.ead450eb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f98e92.css",
+    "static/js/main.ead450eb.js"
+  ]
+}
